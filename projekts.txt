@@ -1,0 +1,15 @@
+R - G5
+G - G1
+B - G0
+
+SCL - G4
+SDA - G3
+
+Button - 3v + 10k resistor (https://www.projecthub.in/wp-content/uploads/2019/12/pushbutton.png)
+
+
+b1 (G8) - R kontrole + 10 un pie 100 aiziet uz 0
+b2 (G7) - G kontrole + 10 un pie 100 aiziet uz 0
+b3 (G6) - B kontrole + 10 un pie 100 aiziet uz 0
+
+b4 (G10) - changes mode (rainbow, W/R, flash, utt)
